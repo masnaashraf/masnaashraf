@@ -32,17 +32,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-jaweed&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-jaweed" /> </p>
 
-- 🌱 I’m currently learning **NLP, Computer Vision**
 
-- IMDB Sentiment Analysis
-
-- [Plant Disease Classification]()
-
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/masna?tab=repositories)
-
-- 📫 How to reach me **masnaashraf@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/masna-ashraf/))
 
 
 <h3 align="left">Connect with me:</h3>

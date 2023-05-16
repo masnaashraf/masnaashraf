@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/masna-ashraf/))
 
-- ⚡ Fun fact **I think i am pretty much funny 🤩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

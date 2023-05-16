@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/masna-ashraf" target="blank"></a>
   
 
-<h3 align="left">Have a look at my yutube content:</h3>
+<h3 align="left">Have a look at my Youtube content:</h3>
  https://www.youtube.com/@masnaashraf2532/
   
 <h3 align="left">Languages and Tools:</h3>

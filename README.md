@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!-- ![logo](https://github.com/Abdul-Jaweed/Abdul-Jaweed/blob/main/1666888622607.jpg) -->
 
-![logo](https://github.com/Abdul-Jaweed/Abdul-Jaweed/blob/main/1675681418944.gif)
-
 ![logo](https://github.com/masnaashraf/masnaashraf/blob/main/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Masna</h1>

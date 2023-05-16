@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![logo](https://github.com/Abdul-Jaweed/Abdul-Jaweed/blob/main/1666888622607.jpg) -->
-
 <!-- ![logo](https://github.com/masnaashraf/masnaashraf/blob/main/68747470733.gif) -->
 
 ![logo](https://github.com/masnaashraf/masnaashraf/blob/main/giphy.gif)

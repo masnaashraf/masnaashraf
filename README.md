@@ -3,7 +3,6 @@
 <h3 align="center">A Passionate Data Scientist from India and currently residing in Abu Dhabi</h3>
 
 <h6>
-Welcome to my GitHub profile! I'm passionate about leveraging the power of data to gain valuable insights and make informed decisions.My primary interest lies in the fascinating world of data science, where I can apply my skills and knowledge to extract meaningful patterns from complex datasets. I enjoy working with various machine learning techniques, statistical analysis, and data visualization tools to uncover hidden trends and solve real-world problems.
 If you share a passion for data science and its endless possibilities, let's connect! Feel free to explore my repositories, contribute to ongoing projects, or reach out to me for any exciting opportunities or discussions in the data field.
 
 Let's unlock the power of data together and create a better future!</h6>

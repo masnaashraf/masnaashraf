@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NLP, Computer Vision**
 
-- Scania Truck [IMDB Sentiment Analysis]()
+- IMDB Sentiment Analysis
 
 - [Plant Disease Classification]()
 

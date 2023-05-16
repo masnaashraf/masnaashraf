@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">Hi 👋, I'm Masna</h1>
+<h3 align="center">A Passionate Data Scientist from India and currently residing in Abu Dhabi</h3>
 <!-- ![logo](https://github.com/masnaashraf/masnaashraf/blob/main/giphy.gif)-->
 
 ![logo](https://github.com/masnaashraf/masnaashraf/blob/main/girl_3.gif)

@@ -12,11 +12,11 @@ Let's unlock the power of data together and create a better future!</h6>
 
 ![logo](https://github.com/masnaashraf/masnaashraf/blob/main/girl_3.gif)
 
-- 🔭 I’m currently working on **Plant Disease Classification**
+- 🔭 I’m currently working on **Student Perfomance Prediction,Egypt Tourism chatbot,Interactive chatbot for Omdena website**
 
-- 🌱 I’m currently learning **NLP, Computer Vision**
+- 🌱 I’m currently learning **NLP,Deep Learning Computer Vision**
 
-- 👯 I’m looking to collaborate on **NLP, Computer Vision Projects**
+- 👯 I’m looking to collaborate on **NLP, Deep learning anf Large Language Model Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/masnaashraf?tab=repositories](https://github.com/masnaashraf?tab=repositories)
 
